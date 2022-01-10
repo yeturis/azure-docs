@@ -1,6 +1,6 @@
 ---
 title: Azure Data Explorer output from Azure Stream Analytics (Preview)
-description: This article describes using Azure Database Explorer as an output for Azure Stream Analytics.
+description: This article describes using Azure Data Explorer as an output for Azure Stream Analytics.
 author: enkrumah
 ms.author: ebnkruma
 ms.service: stream-analytics
